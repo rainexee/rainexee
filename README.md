@@ -1,6 +1,5 @@
-<img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/b6217d4d-648d-4840-b4ec-c8a397194b4f" /><div align="center">
+<img width="540" height="400" alt="image" src="https://i.kym-cdn.com/photos/images/newsfeed/002/829/353/0e8.gif" /><div align="center">
 
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/829/353/0e8.gif" width="300" alt="Lili from Tekken 8">
 
 # rainexee
 
