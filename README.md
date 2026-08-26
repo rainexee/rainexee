@@ -58,7 +58,7 @@ networking, databases, and systems**.
 
 RFID-based attendance monitoring system developed for **DLSU AdRic Laboratories**.
 
-I worked as the **Full-Stack Developer**, handling the application,
+I worked as the **SOLO-Full-Stack Developer**, handling the Frontend, Backend,
 database architecture, UI/UX, and quality assurance.
 
 `HTML` `CSS` `JavaScript` `Node.js` `MySQL` `RFID`
@@ -90,6 +90,9 @@ database architecture, UI/UX, and quality assurance.
 
 A closed-loop cashless payment system designed around university
 ID cards and participating concessionaires.
+
+I worked as the **Full-Stack Developer**, handling the Frontend, Backend,
+database architecture, UI/UX, and quality assurance.
 
 `HTML` `CSS` `JavaScript` `Node.js` `MySQL` `PayMongo API` `RFID`
 
