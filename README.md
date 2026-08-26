@@ -8,7 +8,7 @@
 
 <br>
 
-[github](https://github.com/rainexee) · [linkedin](https://www.linkedin.com/in/juan-menchaca-696629269/)
+[github](https://github.com/rainexee) · 
 
 <br>
 
