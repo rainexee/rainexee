@@ -1,6 +1,6 @@
-<div align="center">
+<img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/b6217d4d-648d-4840-b4ec-c8a397194b4f" /><div align="center">
 
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/829/353/0e8.gif" width="300" alt="Lili from Tekken 8">
+<img src="[https://i.kym-cdn.com/photos/images/newsfeed/002/829/353/0e8.gif](https://64.media.tumblr.com/b678aae24f3805710f8852c376cc96bc/2c6c39e324eed5c3-16/s540x810/f6652d001b721fa50acb1caf2fb562782008b0f0.gif)" width="300" alt="Lili from Tekken 8">
 
 # rainexee
 
@@ -174,6 +174,10 @@ ID cards and participating concessionaires.
     AMAZON WEB SERVICES
     └── AWS Academy Cloud Foundations
 
+    IN-PROGRESS
+    └── Security+
+    └── CySa+
+
 ---
 
 ## `> currently`
@@ -185,17 +189,6 @@ ID cards and participating concessionaires.
 
 ---
 
-## `> github stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rainexee&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&title_color=ff7eb6&icon_color=ff7eb6&text_color=ffffff" height="170" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainexee&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=ff7eb6&text_color=ffffff" height="170" alt="Top Languages">
-
-</div>
-
----
 
 <div align="center">
 
