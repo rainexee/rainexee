@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/7M8G3X4w8JQAAAAi/tekken-lili.gif" width="180" alt="Lili">
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/829/353/0e8.gif" width="300" alt="Lili from Tekken 8">
 
 # rainexee
 
