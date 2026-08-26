@@ -11,7 +11,7 @@
 
 <br>
 
-*welcome to my little corner of the internet*
+*I write code and then spend significantly longer figuring out why it doesn't work.*
 
 </div>
 
@@ -29,7 +29,7 @@
     field       : information technology
     focus       : software / security / networks
     environment : linux · windows
-    status      : probably debugging
+    status      : probably debugging another user's push
 
 I like building things, figuring out how they work, and occasionally
 breaking them badly enough that I have to figure them out again.
@@ -191,7 +191,7 @@ ID cards and participating concessionaires.
 
 <div align="center">
 
-<img src="https://media.tenor.com/9X5Kx0J6Q0AAAAAi/lili-tekken.gif" width="150" alt="Lili">
+<img src="https://media1.tenor.com/m/Wl-KdhG1N24AAAAd/cats.gif" width="150" alt="computer">
 
 <br><br>
 
