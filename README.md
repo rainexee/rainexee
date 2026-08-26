@@ -195,7 +195,7 @@ ID cards and participating concessionaires.
 
 <br><br>
 
-`while(alive) { learn(); build(); improve(); }`
+`while(alive) { push(); }`
 
 <br>
 
