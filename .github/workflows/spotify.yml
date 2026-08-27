@@ -2,8 +2,7 @@ name: Update Spotify
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
-
+    - cron: "7,17,27,37,47,57 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -31,8 +30,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name "spotify-bot"
-          git config --global user.email "spotify-bot@users.noreply.github.com"
+          git config user.name "spotify-bot"
+          git config user.email "spotify-bot@users.noreply.github.com"
 
           git add assets/spotify-now-playing.svg
 
