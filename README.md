@@ -19,11 +19,11 @@
 ### ♫ soundtrack to questionable commits
 
 <a href="https://open.spotify.com/">
-  <img
-    src="https://raw.githubusercontent.com/rainexee/rainexee/main/assets/spotify-now-playing.svg?v=2"
-    alt="Spotify Now Playing"
-    width="500"
-  />
+<img
+  src="https://raw.githubusercontent.com/rainexee/rainexee/main/assets/spotify-now-playing.svg?v=3"
+  alt="Spotify Now Playing"
+  width="500"
+/>
 </a>
 
 *Unlocking flow state with music*
