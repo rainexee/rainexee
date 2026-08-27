@@ -16,6 +16,18 @@
 
 *my greatest skill is fixing problems i personally created.*
 
+### ♫ soundtrack to questionable commits
+
+<a href="https://open.spotify.com/">
+  <img
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/spotify-now-playing.svg"
+    alt="Spotify Now Playing"
+    width="500"
+  />
+</a>
+
+*debugging at volumes that probably aren't safe.*
+
 </div>
 
 ---
