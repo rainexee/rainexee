@@ -17,7 +17,6 @@
 *my greatest skill is fixing problems i personally created.*
 
 ### ♫ soundtrack to questionable commits
-### ♫ soundtrack to questionable commits
 
 <a href="https://open.spotify.com/">
   <img
@@ -27,7 +26,7 @@
   />
 </a>
 
-*the code works better when i can't hear myself thinking.*
+*Unlocking flow state with music*
 </a>
 
 *debugging at volumes that probably aren't safe.*
