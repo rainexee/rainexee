@@ -39,7 +39,6 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/9X5Kx0J6Q0AAAAAi/lili-tekken.gif" width="160" align="right" alt="Lili">
 
 </div>
 
@@ -128,11 +127,7 @@ database architecture, UI/UX, and quality assurance.
 
 ---
 
-<div align="center">
 
-<img src="https://media.tenor.com/7M8G3X4w8JQAAAAi/tekken-lili.gif" width="120" alt="Lili">
-
-</div>
 
 ## `> skills`
 
