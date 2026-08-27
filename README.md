@@ -17,13 +17,17 @@
 *my greatest skill is fixing problems i personally created.*
 
 ### ♫ soundtrack to questionable commits
+### ♫ soundtrack to questionable commits
 
 <a href="https://open.spotify.com/">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/spotify-now-playing.svg"
+    src="https://raw.githubusercontent.com/rainexee/rainexee/main/assets/spotify-now-playing.svg?v=2"
     alt="Spotify Now Playing"
     width="500"
   />
+</a>
+
+*the code works better when i can't hear myself thinking.*
 </a>
 
 *debugging at volumes that probably aren't safe.*
