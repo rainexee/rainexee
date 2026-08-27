@@ -1,4 +1,4 @@
-name: Update Spotify
+name: Update Spotify debug
 
 on:
   schedule:
