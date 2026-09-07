@@ -9,9 +9,6 @@
 `full-stack development` · `cybersecurity` · `networking`
 
 <br>
-
-[github](https://github.com/rainexee) · 
-
 <br>
 
 *my greatest skill is fixing problems i personally created.*
